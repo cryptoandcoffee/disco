@@ -1,4 +1,4 @@
-**Note: This project is a work in progress, expect dragons**. Join our [Matrix room](https://akash.network/chat) if you're interesting in deploying DISCO for production.
+**Note: This project is a work in progress, expect dragons**. Join our [Matrix room](https://discord.com/invite/akash/) if you're interesting in deploying DISCO for production.
 
 ![Disco](disco.png)
 
@@ -65,7 +65,7 @@ Below is a high-level roadmap planned, checkout [Akash Roadmap](http://akash.net
 - **Cosmos Hub**: Support for deploying Gaia Full node and validators.
 - **Interledger Connectors**: Interledger is an open protocol suite for sending payments across different ledgers. Support for deploying Interledger Connectors.
 - **NuCypher**: NyCypher provides cryptographic infrastructure for privacy-preserving applications.
-- **Your Blockchain?**: If you would like to add your blockchain, get in [touch](http://akash.network/chat).
+- **Your Blockchain?**: If you would like to add your blockchain, get in [touch](https://discord.com/invite/akash/).
 
 
 ## About the Author
